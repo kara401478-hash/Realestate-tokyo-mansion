@@ -1,0 +1,8 @@
+# 元データ(国交省のCSV)と中間ファイルは公開しない
+data/raw/
+data/processed/
+Tokyo_*.csv
+*.parquet
+data/output/station_gap.csv
+__pycache__/
+.venv/
